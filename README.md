@@ -1,2 +1,1 @@
-# bootcamp-preparation
-pre course study
+prework-study-guide
